@@ -7,9 +7,9 @@ export default function BookList() {
    return (
       <div>
          <h3>{pageTitle}</h3>
-         <img src={book1} alt="The Magic of Sea Glass by Jenny Hale" />
-         <img src={book2} alt="Doomsday Match (The Dresden Codex Book 1)" />
-         <img src={book3} alt="Girl With A Rose by Leslie Wolfe" />
+         <li><img src={book1} alt="The Magic of Sea Glass by Jenny Hale" /></li>
+         <li><img src={book2} alt="Doomsday Match (The Dresden Codex Book 1)" /></li>
+         <li><img src={book3} alt="Girl With A Rose by Leslie Wolfe" /></li>
       </div>      
    );
 }

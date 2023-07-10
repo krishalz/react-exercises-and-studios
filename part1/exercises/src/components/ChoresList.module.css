@@ -1,11 +1,13 @@
 .choresText {
-   color: lightblue;
+   color: purple;
+   border: 2px dashed brown;
+   border-width: 10px;
    font-style: italic;
    font-size: medium;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .choresHeading {
-   color: red;
-   /* font-style: underline; */
+   color: darkslategrey;
+   text-decoration: underline;
 }
