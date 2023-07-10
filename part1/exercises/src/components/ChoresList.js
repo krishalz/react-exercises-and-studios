@@ -2,8 +2,8 @@ import styles from "./ChoresList.module.css";
 export default function ChoresList() {
   return (
     <div className={styles.choresText}>
-      <h1 classNmae={styles.choresHeading}>This is my Chores heading</h1>
-      <p >No content is here!</p>
+      <h1 className={styles.choresHeading}>My Daily Chore</h1>
+      <p>Scoop the cat boxes!</p>
     </div>
   );
 }

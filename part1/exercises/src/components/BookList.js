@@ -1,5 +1,5 @@
 export default function BookList() {
-   let pageTitle = "Excellent Book List";
+   let pageTitle = "My List of Books to Read";
    let book1 = "https://images-na.ssl-images-amazon.com/images/I/417Dw75YqmL._AC_SX368_.jpg";
    let book2 = "https://m.media-amazon.com/images/I/5101BKStCsL.jpg";
    let book3 = "https://m.media-amazon.com/images/I/41y5hXl9EjL.jpg";
