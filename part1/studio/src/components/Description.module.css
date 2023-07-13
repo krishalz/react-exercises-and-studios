@@ -1,0 +1,13 @@
+.recipeAuthorBlock {
+    display: flex;
+    justify-content: space-evenly;
+    }
+    
+    .imageUpdates {
+       object-fit: contain;
+    }
+ 
+    h3 {
+        color: brown;
+        font-style: italic;
+    }
