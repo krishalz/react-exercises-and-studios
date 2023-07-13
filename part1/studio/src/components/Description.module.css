@@ -3,11 +3,18 @@
     justify-content: space-evenly;
     }
     
-    .imageUpdates {
+.imageUpdates {
        object-fit: contain;
+       height: 200px;
+       width: 200px;
+       margin-top: 20px;
     }
  
-    h3 {
+h3 {
         color: brown;
         font-style: italic;
     }
+
+.alignPhotos {
+  padding: 30px; 
+}
