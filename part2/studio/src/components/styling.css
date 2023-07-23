@@ -30,7 +30,21 @@
  }
  
  .recipeImage {
-   width: 20%;
+   width: 40%;
    display: block;
-   margin: 10px;
+   margin: 30px;
  }
+ .ingredientList {
+  text-align: center;
+}
+.displayWebsiteLink a::before {
+    /* Use the content property to display an icon before the link text */
+    content: "🔗 "; /* Custom icon */
+    margin-right: 2px; 
+  }
+  
+  .displayWebsiteLink a::after {
+    /* Use the content property to display custom text after the link text */
+    content: "-click here!"; /* Custom text */
+    color: green; 
+}
