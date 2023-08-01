@@ -1,0 +1,33 @@
+{ "projects": [
+    {
+        "coach": "LeAnne",
+        "song": "Build Me Up Believer",
+        "length": "17 mins",
+        "level": "high"
+    },
+    {
+        "coach": "Doc",
+        "song": "Bonanza",
+        "length": "3 mins",
+        "level": "high"
+    },
+    {
+        "coach": "Mark",
+        "song": "Sailing Away",
+        "length": "5 mins",
+        "level": "medium"
+    },
+    {
+        "coach": "DuAnne",
+        "song": "Shivers",
+        "length": "6 mins",
+        "level": "high"
+    },
+    {
+        "coach": "Ranier",
+        "song": "Mood Booster",
+        "length": "14 mins",
+        "level": "mid-high"
+    }
+]
+}
